@@ -1,0 +1,11 @@
+.earth-img {
+	position: fixed;
+	width: 100%;
+	object-fit: cover;
+	opacity: 1;
+}
+
+#bg-img {
+	background-image: url(https://p4css.github.io/webScroll/images/Linpen2019_lg.jpg);
+	background-position: 0 0;
+}

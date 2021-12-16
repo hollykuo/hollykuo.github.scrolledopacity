@@ -1,0 +1,25 @@
+.earth-img {
+	position: fixed;
+	width: 100%;
+	object-fit: cover;
+	opacity: 1;
+}
+
+#bg-img {
+	background-image: url(https://www.techlife.com.tw/webimages/images/2019012512513076.png);
+	background-position: 0 0;
+}
+
+p{
+    font-size: 18pt;
+    font-family:STHeiti;
+    color:black;
+}
+
+h1{
+    font-family:STHeiti;
+}
+
+h4{
+    font-family:STHeiti;    
+}
